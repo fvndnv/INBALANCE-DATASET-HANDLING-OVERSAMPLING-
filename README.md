@@ -1,1 +1,1 @@
-# INBALANCE-DATASET-HANDLING-OVERSAMPLING-
+# Handle-Imbalanced-Dataset
